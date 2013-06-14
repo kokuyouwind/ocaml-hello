@@ -1,0 +1,5 @@
+(* OASIS_START *)
+(* DO NOT EDIT (digest: bba80a3d1139957ce17e4f1496d657b7) *)
+Authors of buildpack-ocaml-hello-kokuyou
+your name
+(* OASIS_STOP *)
